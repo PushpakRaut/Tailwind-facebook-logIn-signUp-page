@@ -1,7 +1,10 @@
 # Facebook-logIn-signUp-clone
 
-## Live Demo of website:
+## connect with me:
+* https://www.linkedin.com/in/pushpak-raut-075738170/
 
+## my youtube channel for other projects
+* https://www.youtube.com/c/CodeSmoker
 
 ## You can Support me:
 https://www.buymeacoffee.com/CodeSmoker
@@ -13,14 +16,3 @@ https://www.buymeacoffee.com/CodeSmoker
 * run command `npm i`
 * to run this project you have to run the command `npm run start`
 * then open `index.html`
-
-
-## You can subscribe to CodeSmoker on youtube :
-* https://www.youtube.com/c/CodeSmoker
-## You can connect with me on social media: 
-* #### Instagram: 
-* https://www.instagram.com/codesmoker18/ 
-* #### facebook: 
-* https://www.facebook.com/codesmoker18/
-* ### Quora: 
-* https://codesmoker.quora.com/
